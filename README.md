@@ -25,11 +25,11 @@ This project performs fundamental arithmetic operations and is ideal for beginne
 
 ## 📂 Project Structure
 
-simple-calculator/
-│
-├── calculator.ext # Main source code file    
-├── README.md # Project documentation      
-└── output/ # Sample outputs (optional)     
+simple-calculator/                           
+|                                             
+├── calculator.ext # Main source code file             
+├── README.md # Project documentation               
+└── output/ # Sample outputs (optional)              
 
 
 ---

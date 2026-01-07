@@ -27,9 +27,9 @@ This project performs fundamental arithmetic operations and is ideal for beginne
 
 simple-calculator/
 │
-├── calculator.ext # Main source code file
-├── README.md # Project documentation
-└── output/ # Sample outputs (optional)
+├── calculator.ext # Main source code file    
+├── README.md # Project documentation      
+└── output/ # Sample outputs (optional)     
 
 
 ---
@@ -56,9 +56,9 @@ Compile & run the program
 
 Start calculating 🎯
 
-📸 Sample Output
-Enter first number: 10
-Enter second number: 5
-Choose operation (+, -, *, /): +
-Result: 15
+📸 Sample Output       
+Enter first number: 10    
+Enter second number: 5              
+Choose operation (+, -, *, /): +           
+Result: 15         
 

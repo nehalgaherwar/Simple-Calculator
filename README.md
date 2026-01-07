@@ -25,3 +25,40 @@ This project performs fundamental arithmetic operations and is ideal for beginne
 
 ## 📂 Project Structure
 
+simple-calculator/
+│
+├── calculator.ext # Main source code file
+├── README.md # Project documentation
+└── output/ # Sample outputs (optional)
+
+
+---
+
+## 🧑‍💻 How It Works
+
+1. User selects an arithmetic operation  
+2. Enters two numbers  
+3. Program performs the calculation  
+4. Result is displayed instantly  
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/simple-calculator.git
+
+
+Open the project in VS Code
+
+Compile & run the program
+
+Start calculating 🎯
+
+📸 Sample Output
+Enter first number: 10
+Enter second number: 5
+Choose operation (+, -, *, /): +
+Result: 15
+
